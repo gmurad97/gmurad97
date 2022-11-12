@@ -1,1 +1,1 @@
-<h1>Welcome to my GIT page</h1>
+<h1 style="margin:auto;">Welcome to my GIT page</h1>
