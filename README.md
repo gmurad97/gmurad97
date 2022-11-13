@@ -1,1 +1,1 @@
-<h1 align="center">👋Hi, I'm Murad Gazymagomedov👋</h1>
+<img align=center href="animation.gif">
