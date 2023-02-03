@@ -7,5 +7,5 @@
 	</a>  
 	<a href="https://t.me/ASProgerHack" target="_blank">
 		<img src="content/icon/telegram.png" title="Telegram" alt="@ASProgerHack" width="35px">
-	</a>
+	</a>  
 </p>
