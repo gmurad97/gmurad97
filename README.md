@@ -8,4 +8,7 @@
 	<a href="https://t.me/ASProgerHack" target="_blank">
 		<img src="content/icon/telegram.png" title="Telegram" alt="@ASProgerHack" width="35px">
 	</a>  
+	<a href="https://codepen.io/gmurad97" target="_blank">
+		<img src="content/icon/codepen.png" title="CodePen" alt="@ASProgerHack" width="35px">
+	</a>  
 </p>
