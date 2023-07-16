@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="content/logo/logo.png" alt="GMURAD97 LOGO" width="80%">
+	<img src="content/logo/logo_upd.png" alt="GMURAD97 LOGO" width="90%">
 </h1>
 <p align="left">
 	<a href="https://instagram.com/murad.gazymagomedov" target="_blank">
